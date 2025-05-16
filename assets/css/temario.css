@@ -6,7 +6,7 @@ body {
 
 /* ==== Navbar ==== */
 .navbar-nav .nav-link:hover {
-  color: #a600e7;
+  color: #7400a1;
 }
 
 /* ==== Header ==== */
@@ -45,7 +45,7 @@ article p {
 
 /* ==== Footer ==== */
 footer {
-  background-color: #a600e7;
+  background-color: #7400a1;
   text-align: center;
   padding: 15px 0;
   margin-top: auto;
